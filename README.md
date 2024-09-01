@@ -10,8 +10,9 @@ Figure 1. Temperature in the Dewar flasks for each treatment and the room temper
 See the code in the notebook [Average and Replicas Temperature Visualization](https://github.com/OlenaBugaiova/visualization-of-temperature-data-on-composting/blob/main/code/Average%20and%20Replicas%20Temperature%20Visualization.ipynb)
 
 ---
+# Degree days
 
-The project also does data transformation for calculating degree days described in the document "[Thermal Load and Application](https://github.com/OlenaBugaiova/visualization-of-temperature-data-on-composting/blob/main/articles/Thermal%20Load%20and%20Application.pdf)" with further visualization of accumulated temperature. Accumulated temperature is calculated in relation to room temperature, sterilization, and thermophilic temperatures, see example for replicas
+The project also does data transformation for the calculation of degree days described in the document "[Thermal Load and Application](https://github.com/OlenaBugaiova/visualization-of-temperature-data-on-composting/blob/main/articles/Thermal%20Load%20and%20Application.pdf)" with further visualization of accumulated temperature. Accumulated temperature is calculated in relation to room temperature, sterilization, and thermophilic temperatures, see the example
 
 ![Thermophilic based accumulated temperature](https://github.com/OlenaBugaiova/visualization-of-temperature-data-on-composting/blob/main/visualizations/Accumulated%20Temperature%20Generation%20in%20relation%20to%20Base/Thermophilic%20based%20Accumulated%20Temperature%20with%20Mean.png)
 
@@ -20,4 +21,4 @@ See the code in the notebooks
 - [Average Accumulated Temperature Generation in relation to Base](https://github.com/OlenaBugaiova/visualization-of-temperature-data-on-composting/blob/main/code/Average%20Accumulated%20Temperature%20Generation%20in%20relation%20to%20Base.ipynb) 
 
 ---
-The project is my contribution during language practice at [NORSØK](https://www.norsok.no/en/about-norsok) - a Norwegian center for the development of organic agriculture.
+This project is my contribution during language practice at [NORSØK](https://www.norsok.no/en/about-norsok) - a Norwegian center for the development of organic agriculture.
